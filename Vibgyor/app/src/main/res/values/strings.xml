@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VIBGYOR</string>
+    <string name="first_colour">Red</string>
+    <string name="second_colour">Orange</string>
+    <string name="third_colour">Yellow</string>
+    <string name="fourth_colour">Green</string>
+    <string name="fifth_colour">Blue</string>
+    <string name="sixth_colour">Indigo</string>
+    <string name="seventh_colour">Violet</string>
+</resources>
